@@ -169,7 +169,13 @@ gitee	git@gitee.com:Qithird/test.git (fetch)
 gitee	git@gitee.com:Qithird/test.git (push)
 github	git@github.com:Qithird/test.git (fetch)
 github	git@github.com:Qithird/test.git (push)
+#推送到github和码云
+git push github master
+git push gitee master
 
+#拉去远程的提交
+git pull github master 
+git pull gitee master 
 
 
 #windows系统下命令行报错：
