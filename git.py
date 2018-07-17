@@ -278,7 +278,7 @@ git:x:1001:1001:,,,:/home/git:/usr/bin/git-shell
 git clone git@ip:/sample.git
 
 
-
+#git文档：https://git-scm.com/docs/git
 
 
 #windows系统下命令行报错：
